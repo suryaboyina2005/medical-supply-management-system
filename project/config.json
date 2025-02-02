@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://github.com/suryaboyina2005",
+    "tw_url":"https://github.com/suryaboyina2005",
+    "gh_url":"https://github.com/suryaboyina2005",
+    "blog_name": "WELCOME",
+    "headname": "MEDICINES & PRODUCTS SUPPLYING SYSTEM",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
