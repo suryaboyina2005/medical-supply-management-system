@@ -1,2 +1,2 @@
 # medical-supply-management-system
-.
+
